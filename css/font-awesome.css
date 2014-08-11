@@ -1564,3 +1564,11 @@
 .fa-bomb:before {
   content: "\f1e2";
 }
+
+.fa-shared-folder:before{
+  content:"\f1e3"
+}
+
+.fa-shared-file:before{
+  content:"\f1e4"
+}

@@ -3266,3 +3266,9 @@ icons:
     created:    4.1
     categories:
       - Web Application Icons
+
+  - name:       Shared-Folder
+  - id:         shared-folder-o
+  - unicode:    f1e3
+  - categories: 
+     - Web Application Icons
