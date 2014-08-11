@@ -1565,10 +1565,10 @@
   content: "\f1e2";
 }
 
-.fa-shared-folder:before{
-  content:"\f1e3"
+.fa-shared-folder-o:before{
+  content:"\e600"
 }
 
-.fa-shared-file:before{
-  content:"\f1e4"
+.fa-shared-file-o:before{
+  content:"\e601"
 }
